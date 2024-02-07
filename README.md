@@ -1,5 +1,2 @@
 # Deep Learning Portal 🔥
-This repository contains implementation code for important research papers and a starter guide for how to use useful deep learning tools.
-
-
-
+This repository contains implementation code for important research papers and starter guides for common deep learning tools.
