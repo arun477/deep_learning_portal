@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://arun477.github.io/practice_deep_learning/core.html</loc>
-    <lastmod>2024-02-19T14:29:36.449Z</lastmod>
+    <lastmod>2024-02-19T14:48:35.979Z</lastmod>
   </url>
   <url>
     <loc>https://arun477.github.io/practice_deep_learning/index.html</loc>
-    <lastmod>2024-02-19T14:29:36.456Z</lastmod>
+    <lastmod>2024-02-19T15:05:25.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arun477.github.io/practice_deep_learning/mini_batch_training.html</loc>
+    <lastmod>2024-02-19T15:03:49.698Z</lastmod>
   </url>
 </urlset>
