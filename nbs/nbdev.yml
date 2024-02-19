@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "practice_deep_learning"
+  site-url: "https://arun477.github.io/practice_deep_learning"
+  description: "Deep Learning Portal 🔥 This repository contains implementation code for important research papers and starter guides for common deep learning tools."
+  repo-branch: main
+  repo-url: "https://github.com/arun477/practice_deep_learning"
