@@ -13,7 +13,11 @@ d = { 'settings': { 'branch': 'main',
                                                                                                        'practice_deep_learning/training.py'),
                                                  'practice_deep_learning.training.Dataset.__len__': ( 'mini_batch_training.html#dataset.__len__',
                                                                                                       'practice_deep_learning/training.py'),
+                                                 'practice_deep_learning.training.accuracy': ( 'mini_batch_training.html#accuracy',
+                                                                                               'practice_deep_learning/training.py'),
                                                  'practice_deep_learning.training.fit': ( 'mini_batch_training.html#fit',
                                                                                           'practice_deep_learning/training.py'),
                                                  'practice_deep_learning.training.get_dls': ( 'mini_batch_training.html#get_dls',
-                                                                                              'practice_deep_learning/training.py')}}}
+                                                                                              'practice_deep_learning/training.py'),
+                                                 'practice_deep_learning.training.report': ( 'mini_batch_training.html#report',
+                                                                                             'practice_deep_learning/training.py')}}}
