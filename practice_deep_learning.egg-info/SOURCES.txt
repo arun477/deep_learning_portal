@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+practice_deep_learning/__init__.py
+practice_deep_learning/_modidx.py
+practice_deep_learning/core.py
+practice_deep_learning.egg-info/PKG-INFO
+practice_deep_learning.egg-info/SOURCES.txt
+practice_deep_learning.egg-info/dependency_links.txt
+practice_deep_learning.egg-info/entry_points.txt
+practice_deep_learning.egg-info/not-zip-safe
+practice_deep_learning.egg-info/requires.txt
+practice_deep_learning.egg-info/top_level.txt
