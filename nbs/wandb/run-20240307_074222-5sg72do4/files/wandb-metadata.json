@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-03-07T02:12:23.437586",
+    "startedAt": "2024-03-07T02:12:22.299435",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "personal/practice_deep_learning/nbs/07_04_variational_autoencoder_fleuret.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/arun/Documents/personal/practice_deep_learning",
+    "git": {
+        "remote": "https://github.com/arun477/practice_deep_learning.git",
+        "commit": "478601b5627a93948c793ea08802ec5e5e820f1d"
+    },
+    "email": "coolarun477@gmail.com",
+    "host": "Aruns-MacBook-Pro.local",
+    "username": "arun",
+    "executable": "/Applications/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 176.8931999206543
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

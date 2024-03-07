@@ -1,0 +1,78 @@
+wandb_version: 1
+
+batch_size:
+  desc: null
+  value: 1024
+learning_rate:
+  desc: null
+  value: 0.001
+architecture:
+  desc: null
+  value: CNN
+dataset:
+  desc: null
+  value: MNIST
+epochs:
+  desc: null
+  value: 20
+total_params:
+  desc: null
+  value: 0.02M
+model:
+  desc: null
+  value: "VAE(\n  (encoder): Sequential(\n    (0): Conv2d(1, 16, kernel_size=(1, 1),\
+    \ stride=(1, 1))\n    (1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True,\
+    \ track_running_stats=True)\n    (2): ReLU(inplace=True)\n    (3): Conv2d(16,\
+    \ 16, kernel_size=(5, 5), stride=(1, 1))\n    (4): BatchNorm2d(16, eps=1e-05,\
+    \ momentum=0.1, affine=True, track_running_stats=True)\n    (5): ReLU(inplace=True)\n\
+    \    (6): Conv2d(16, 16, kernel_size=(5, 5), stride=(1, 1))\n    (7): BatchNorm2d(16,\
+    \ eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n    (8): ReLU(inplace=True)\n\
+    \    (9): Conv2d(16, 16, kernel_size=(4, 4), stride=(2, 2))\n    (10): BatchNorm2d(16,\
+    \ eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n    (11): ReLU(inplace=True)\n\
+    \    (12): Conv2d(16, 16, kernel_size=(3, 3), stride=(2, 2))\n    (13): BatchNorm2d(16,\
+    \ eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n    (14): ReLU(inplace=True)\n\
+    \    (15): Conv2d(16, 64, kernel_size=(4, 4), stride=(1, 1))\n  )\n  (decoder):\
+    \ Sequential(\n    (0): ConvTranspose2d(32, 16, kernel_size=(4, 4), stride=(1,\
+    \ 1))\n    (1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n\
+    \    (2): ReLU(inplace=True)\n    (3): ConvTranspose2d(16, 16, kernel_size=(3,\
+    \ 3), stride=(2, 2))\n    (4): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True,\
+    \ track_running_stats=True)\n    (5): ReLU(inplace=True)\n    (6): ConvTranspose2d(16,\
+    \ 16, kernel_size=(4, 4), stride=(2, 2))\n    (7): BatchNorm2d(16, eps=1e-05,\
+    \ momentum=0.1, affine=True, track_running_stats=True)\n    (8): ReLU(inplace=True)\n\
+    \    (9): ConvTranspose2d(16, 16, kernel_size=(5, 5), stride=(1, 1))\n    (10):\
+    \ BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n\
+    \    (11): ReLU(inplace=True)\n    (12): ConvTranspose2d(16, 1, kernel_size=(5,\
+    \ 5), stride=(1, 1))\n    (13): Sigmoid()\n  )\n)"
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.7
+    cli_version: 0.15.10
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: true
+    start_time: 1709777940.513929
+    t:
+      1:
+      - 1
+      - 41
+      - 49
+      - 51
+      - 55
+      - 105
+      2:
+      - 1
+      - 41
+      - 49
+      - 51
+      - 55
+      - 105
+      3:
+      - 16
+      - 23
+      4: 3.9.7
+      5: 0.15.10
+      8:
+      - 1
+      - 2
+      - 5
