@@ -1,6 +1,0 @@
-[console_scripts]
-
-
-[nbdev]
-practice_deep_learning = practice_deep_learning._modidx:d
-

@@ -4,3 +4,4 @@ datasets
 __pycache__
 .hypothesis
 .ipynb_checkpoints
+*.egg-info/
