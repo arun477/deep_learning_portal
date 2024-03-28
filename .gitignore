@@ -3,3 +3,4 @@ wandb
 datasets
 __pycache__
 .hypothesis
+.ipynb_checkpoints
