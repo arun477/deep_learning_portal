@@ -2,6 +2,10 @@
 
 This repository contains implementation code for important research papers and starter guides for common deep learning tools.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/976bb75a-3a53-4eed-9664-db45f3e214e8" alt="Image description" width="300" height="300">
+</p>
+
 ## Table of Contents
 
 1. [Fundamentals](#fundamentals)
