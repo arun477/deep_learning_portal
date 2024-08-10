@@ -1,5 +1,6 @@
 # Deep Learning Portal
-This repository contains implementation code for important research papers and starter guides for common deep learning tools. All relevant notebooks can be found in the nbs folder.
+
+This repository contains implementation code for important research papers, starter guides for common deep learning tools, and explorations of various algorithms and techniques in machine learning, deep learning, and related fields. All relevant notebooks can be found in the `nbs` folder.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/976bb75a-3a53-4eed-9664-db45f3e214e8" alt="Image description" width="300" height="300">
@@ -18,7 +19,9 @@ This repository contains implementation code for important research papers and s
 9. [Multimodal Learning](#multimodal-learning)
 10. [Data Preprocessing and Augmentation](#data-preprocessing-and-augmentation)
 11. [Mathematics for Machine Learning](#mathematics-for-machine-learning)
-12. [Sorting Algorithms](#sorting-algorithms)
+12. [Algorithms](#algorithms)
+13. [Tool-specific Guides](#tool-specific-guides)
+14. [Miscellaneous Topics](#miscellaneous-topics)
 
 ## Notebook Descriptions
 
@@ -29,6 +32,7 @@ This repository contains implementation code for important research papers and s
 - **Mini-batch Training**: Techniques for efficient mini-batch training in deep learning.
 - **Datasets**: Handling and preprocessing various types of datasets.
 - **Foundations**: Core concepts and building blocks of deep learning.
+- **Tensor Puzzlers**: Exploration of tensor operations and manipulations.
 
 ### Computer Vision
 
@@ -38,6 +42,7 @@ This repository contains implementation code for important research papers and s
 - **Zero-shot Image Classification and Object Detection**: Techniques for classifying images and detecting objects without prior training.
 - **Image Search using Color Histograms**: Basic image retrieval system using color histogram features.
 - **Bag of Visual Words**: Implementation of the Bag of Visual Words technique for image classification.
+- **ImageNet**: Working with the ImageNet dataset.
 
 ### Natural Language Processing
 
@@ -47,6 +52,8 @@ This repository contains implementation code for important research papers and s
 - **Cross-encoders**: Implementation and usage of cross-encoders for text pair classification and ranking.
 - **Question Answering Systems**: Building end-to-end question answering systems.
 - **NLP Data Augmentation**: Techniques for augmenting text data to improve model performance.
+- **Attention Mechanism**: Detailed exploration of attention mechanisms in neural networks.
+- **Mamba Implementation**: Implementation and analysis of the Mamba architecture.
 
 ### Audio Processing
 
@@ -56,6 +63,9 @@ This repository contains implementation code for important research papers and s
 - **Voice Assistant**: Creating a basic voice assistant using deep learning techniques.
 - **Audio Classification**: Classifying audio samples into predefined categories.
 - **Audio Generation**: Generating audio using deep learning models.
+- **Audio Preprocessing**: Techniques for preparing audio data for machine learning tasks.
+- **Audio Exploration**: Analyzing and visualizing audio data.
+- **Spectrograms**: Conversion between audio and spectrogram representations.
 
 ### Machine Learning Algorithms
 
@@ -66,6 +76,7 @@ This repository contains implementation code for important research papers and s
 - **Support Vector Machines**: Implementation and analysis of SVMs for classification.
 - **Logistic Regression**: Building and training logistic regression models.
 - **Collaborative Filtering**: Implementing collaborative filtering for recommendation systems.
+- **Perceptron and Adaline**: Implementation of basic neural network models.
 
 ### Deep Learning Architectures
 
@@ -91,6 +102,7 @@ This repository contains implementation code for important research papers and s
 
 - **CLIP Model**: Exploring OpenAI's CLIP model for joint vision and language understanding.
 - **Auto Video Captioning System**: Building a system that automatically generates captions for video content.
+- **Video Data Handling**: Techniques for processing and analyzing video data.
 
 ### Data Preprocessing and Augmentation
 
@@ -102,6 +114,15 @@ This repository contains implementation code for important research papers and s
 
 - **Matrix Decomposition**: Implementing and analyzing various matrix decomposition techniques.
 - **Fourier Transform**: Exploring the Fourier transform and its applications in signal processing and machine learning.
+
+### Tool-specific Guides
+
+- **Multiprocessing**: Techniques for parallel processing in Python.
+
+### Miscellaneous Topics
+
+- **RAG System**: Implementation of a Retrieval-Augmented Generation system.
+- **Tabular Data Processing**: Techniques for handling and analyzing tabular data.
 
 ## License
 
