@@ -1,6 +1,5 @@
 # Deep Learning Portal
-
-This repository contains implementation code for important research papers and starter guides for common deep learning tools.
+This repository contains implementation code for important research papers and starter guides for common deep learning tools. All relevant notebooks can be found in the nbs folder.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/976bb75a-3a53-4eed-9664-db45f3e214e8" alt="Image description" width="300" height="300">
